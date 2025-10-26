@@ -30,3 +30,6 @@ Before using the plugin, you **must** configure your email settings.
 ## Tested Environment
 
 This plugin has primarily been tested with mail sent from **Gmail** to a **GMX** mailbox. While it might work with other providers, compatibility is not guaranteed.
+
+* Kindle Paperwhite GEN10 FW 5.18.1
+* Koreader 2025.8
