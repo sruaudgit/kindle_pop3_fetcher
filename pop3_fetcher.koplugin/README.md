@@ -2,13 +2,6 @@
 
 This plugin allows you to fetch files attached to emails from a dedicated mailbox and save them directly to your Kindle device. It's designed to provide a similar experience to Amazon's Send-to-Kindle service, but with more flexibility.
 
-## How it Works
-
-1.  **Send Emails:** Send books or other files as attachments to a custom email address configured for this plugin.
-2.  **Fetch on Kindle:** On your Kindle, navigate to `Tools > More Tools > POP3 Fetcher`.
-3.  **Automatic Download:** The plugin will connect to your configured POP3 mailbox, download the email attachments, and save them to your specified directory on the Kindle.
-4.  **Email Deletion:** After successful fetching, the emails will be deleted from your mailbox to keep it clean.
-
 ## Installation
 
 1.  Download the `pop3_fetcher.koplugin` folder.
@@ -30,3 +23,6 @@ Before using the plugin, you **must** configure your email settings.
 ## Tested Environment
 
 This plugin has primarily been tested with mail sent from **Gmail** to a **GMX** mailbox. While it might work with other providers, compatibility is not guaranteed.
+
+* Kindle Paperwhite GEN10 FW 5.18.1
+* Koreader 2025.8
