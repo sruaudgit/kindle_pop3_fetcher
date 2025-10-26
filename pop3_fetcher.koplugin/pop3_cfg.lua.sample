@@ -1,0 +1,8 @@
+ -- file to be stored in koreader/settings
+ return {   
+    ["pop3_server"] = "pop.gmx.com",  -- e.g., "pop.gmail.com"
+    ["pop3_port"] = 995,                -- Standard POP3 SSL port
+    ["username"] = "username@gmx.fr",
+    ["password"] = "password",  -- Use app-specific password for 2FA accounts
+    ["save_dir"] = "/mnt/us/ebooks/pop3" 
+}
